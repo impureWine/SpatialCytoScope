@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "backend": "matplotlib",
+  "figure": {
+    "width_pt": 518.4,
+    "height_pt": 273.59999999999997
+  },
+  "panels": [
+    {
+      "id": "a",
+      "bbox_pt": [
+        62.208,
+        51.98399999999998,
+        502.84799999999996,
+        205.2
+      ]
+    }
+  ]
+}
